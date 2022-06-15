@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p01Inheritance/p01Inheritance.iml" filepath="$PROJECT_DIR$/p01Inheritance/p01Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p02PolymorphismAndDatabaseConnection/p02PolymorphismAndDatabaseConnection.iml" filepath="$PROJECT_DIR$/p02PolymorphismAndDatabaseConnection/p02PolymorphismAndDatabaseConnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p03SpringIntro/p03SpringIntro.iml" filepath="$PROJECT_DIR$/p03SpringIntro/p03SpringIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p04SpringDataAndJpa/p04SpringDataAndJpa.iml" filepath="$PROJECT_DIR$/p04SpringDataAndJpa/p04SpringDataAndJpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p05DataRepositoryForSpringBoot/p05DataRepositoryForSpringBoot.iml" filepath="$PROJECT_DIR$/p05DataRepositoryForSpringBoot/p05DataRepositoryForSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p06RestClient/p06RestClient.iml" filepath="$PROJECT_DIR$/p06RestClient/p06RestClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gittigidiyor-spring-bootcamp-master/patika-03-05/p07.iml" filepath="$PROJECT_DIR$/../../gittigidiyor-spring-bootcamp-master/patika-03-05/p07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p08thymeleafDemo/p08ThymeleafDemo.iml" filepath="$PROJECT_DIR$/p08thymeleafDemo/p08ThymeleafDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../gittigidiyor-spring-bootcamp-master/patika-03-06/p09.iml" filepath="$PROJECT_DIR$/../../gittigidiyor-spring-bootcamp-master/patika-03-06/p09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-bootcamp.iml" filepath="$PROJECT_DIR$/spring-bootcamp.iml" />
+    </modules>
+  </component>
+</project>

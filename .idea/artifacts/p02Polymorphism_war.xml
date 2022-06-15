@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="p02Polymorphism:war">
+    <output-path>$PROJECT_DIR$/p02Polymorphism/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>p02Polymorphism</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="p02Polymorphism-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="p02Polymorphism:war exploded" />
+    </root>
+  </artifact>
+</component>
